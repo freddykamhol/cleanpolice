@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Clean Police</title>
+  <rect width="64" height="64" rx="16" fill="#001b41"/>
+  <path fill="#2aa3c1" d="M32 10 49 16v14c0 11-7.2 19.2-17 24-9.8-4.8-17-13-17-24V16l17-6Z"/>
+  <path fill="#001b41" d="M32 17 42 21v9c0 6.6-3.9 11.9-10 15.4C25.9 41.9 22 36.6 22 30v-9l10-4Z"/>
+  <path fill="#fff" d="M25 27h14v4H25zM30 22h4v14h-4z"/>
+</svg>
