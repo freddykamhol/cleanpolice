@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="clean-police-mark" viewBox="0 0 64 64"><path fill="currentColor" d="M32 5 53 13v17c0 14-8.7 24.2-21 30C19.7 54.2 11 44 11 30V13L32 5Z"/><path fill="#001b41" d="M32 14 44 19v11c0 8.1-4.7 14.4-12 18.7C24.7 44.4 20 38.1 20 30V19l12-5Z"/><path fill="currentColor" d="M25 28h14v4H25zM30 23h4v14h-4z"/></symbol>
+  <symbol id="sparkle" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="m12 3 1.9 7.1L21 12l-7.1 1.9L12 21l-1.9-7.1L3 12l7.1-1.9L12 3Z"/></symbol>
+  <symbol id="shield-check" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="M12 3 20 6v5.8c0 4.8-3.3 7.9-8 9.8-4.7-1.9-8-5-8-9.8V6l8-3Z"/><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7" d="m8.5 12 2.2 2.2 4.8-5"/></symbol>
+</svg>

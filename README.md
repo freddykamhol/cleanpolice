@@ -15,7 +15,7 @@ npm run dev
 npm run build
 ```
 
-Der Build nutzt relative Asset-Pfade und erzeugt zusätzlich `dist/404.html`. Dadurch funktioniert die SPA auch unter einem GitHub-Pages-Unterpfad wie `/cleanpolice/`.
+Der Build nutzt relative Asset-Pfade, erzeugt `dist/404.html` und veröffentlicht die fertigen Dateien anschließend in das Projekt-Root. Das entspricht dem Plesk-Setup der anderen Projekte: Plesk kann direkt die produktive `index.html` und den `assets/`-Ordner ausliefern.
 
 ## Branding
 
